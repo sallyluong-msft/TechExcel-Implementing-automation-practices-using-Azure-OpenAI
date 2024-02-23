@@ -8,6 +8,12 @@ public enum LoyaltyTier
 
 public class Customer
 {
+    public Customer()
+    {
+        FirstName = string.Empty;
+        LastName = string.Empty;
+        FullName = string.Empty;
+    }
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public string FullName { get; set; }

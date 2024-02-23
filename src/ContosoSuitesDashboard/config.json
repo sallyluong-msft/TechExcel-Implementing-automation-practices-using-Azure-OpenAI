@@ -1,12 +1,12 @@
 {
-    "AOAIEndpoint": "TODO",
-    "AOAIKey": "TODO",
-    "AOAIDeploymentName": "TODO",
-    "SearchEndpoint": "TODO",
-    "SearchKey": "TODO",
-    "SearchIndex": "TODO",
-    "SpeechKey": "TODO",
-    "SpeechRegion": "TODO",
+    "AOAIEndpoint": "https://openai-azuredevws.openai.azure.com/",
+    "AOAIKey": "604ad2bb5e984c09a360a491045f0c2e",
+    "AOAIDeploymentName": "gpt4",
+    "SearchEndpoint": "https://v7xbn5ajsfu56-search.search.windows.net",
+    "SearchKey": "sLK2Vz0bAQMjI1mkJqJi8VKpyiVNjBUNFIjA0XtuR1AzSeDHd2oH",
+    "SearchIndex": "contoso-suites",
+    "SpeechKey": "2850efd74e0d4fa0b939e4b37afa3539",
+    "SpeechRegion": "swedencentral",
     "LanguageEndpoint": "TODO",
     "LanguageKey": "TODO"
 }
